@@ -1,0 +1,32 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://your-domain.com/sitemap.xml
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all tools
+Allow: /pdf-compressor/
+Allow: /jpg-to-pdf/
+Allow: /qr-generator/
+Allow: /image-compressor/
+Allow: /word-counter/
+Allow: /text-to-speech/
+Allow: /speech-to-text/
+Allow: /remove-background/
+Allow: /password-generator/
+Allow: /stopwatch-timer/
+Allow: /pdf-split/
+Allow: /pdf-to-jpg/
+Allow: /jpg-to-png/
+Allow: /html-to-pdf/
+Allow: /meta-tag-generator/
+Allow: /utm-link-builder/
+Allow: /json-formatter/
+Allow: /base64-converter/
+Allow: /color-picker/
+Allow: /online-notepad/
