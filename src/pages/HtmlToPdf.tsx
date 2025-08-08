@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import {
-  Container, Box, Typography, Card, CardContent, Button, Alert, Grid, Paper, TextField, FormControl, InputLabel, Select, MenuItem, Slider, Switch, FormControlLabel,
+  Container, Box, Typography, Card, CardContent, Button, Alert, Grid, Paper, TextField,
 } from '@mui/material';
 import { Download as DownloadIcon, Clear as ClearIcon, Preview as PreviewIcon, Code as CodeIcon } from '@mui/icons-material';
 

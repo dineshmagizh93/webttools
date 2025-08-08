@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import {
-  Container, Box, Typography, Card, CardContent, Button, Alert, LinearProgress, Grid, Paper, Chip, Slider,
+  Container, Box, Typography, Card, CardContent, Button, Alert, Grid, Chip, Slider,
 } from '@mui/material';
 import { CloudUpload as UploadIcon, Download as DownloadIcon, Clear as ClearIcon, Image as ImageIcon } from '@mui/icons-material';
 

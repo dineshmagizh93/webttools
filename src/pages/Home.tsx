@@ -7,8 +7,6 @@ import {
   Typography,
   Box,
   Chip,
-  useTheme,
-  useMediaQuery,
 } from '@mui/material';
 import GoogleAd from '../components/GoogleAd';
 import {
@@ -199,7 +197,6 @@ const tools = [
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
-  const theme = useTheme();
 
   return (
     <Container maxWidth="xl" sx={{ pl: { md: 35 }, pr: { md: 3 } }}>
