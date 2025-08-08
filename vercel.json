@@ -1,4 +1,10 @@
 {
+  "build": {
+    "env": {
+      "DISABLE_ESLINT_PLUGIN": "true",
+      "CI": "false"
+    }
+  },
   "rewrites": [
     {
       "source": "/(.*)",
