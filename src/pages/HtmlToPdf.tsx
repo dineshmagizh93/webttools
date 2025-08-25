@@ -22,7 +22,7 @@ import {
 import {
   Download as DownloadIcon,
   Clear as ClearIcon,
-  Preview as PreviewIcon,
+  Visibility as PreviewIcon,
   Code as CodeIcon,
 } from '@mui/icons-material';
 import html2pdf from 'html2pdf.js';

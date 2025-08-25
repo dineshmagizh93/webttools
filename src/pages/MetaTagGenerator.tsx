@@ -17,7 +17,7 @@ import {
   Tooltip,
 } from '@mui/material';
 import {
-  Copy as CopyIcon,
+  ContentCopy as CopyIcon,
   Clear as ClearIcon,
   Code as CodeIcon,
   Share as ShareIcon,

@@ -15,7 +15,7 @@ import {
   Chip,
 } from '@mui/material';
 import {
-  Copy as CopyIcon,
+  ContentCopy as CopyIcon,
   Clear as ClearIcon,
   Link as LinkIcon,
   OpenInNew as OpenIcon,

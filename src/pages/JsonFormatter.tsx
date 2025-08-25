@@ -19,7 +19,7 @@ import {
   MenuItem,
 } from '@mui/material';
 import {
-  Copy as CopyIcon,
+  ContentCopy as CopyIcon,
   Clear as ClearIcon,
   CloudUpload as UploadIcon,
   Download as DownloadIcon,

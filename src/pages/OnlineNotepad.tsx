@@ -17,7 +17,7 @@ import {
   FormControlLabel,
 } from '@mui/material';
 import {
-  Copy as CopyIcon,
+  ContentCopy as CopyIcon,
   Clear as ClearIcon,
   Download as DownloadIcon,
   Save as SaveIcon,

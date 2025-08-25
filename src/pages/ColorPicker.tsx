@@ -16,7 +16,7 @@ import {
   Slider,
 } from '@mui/material';
 import {
-  Copy as CopyIcon,
+  ContentCopy as CopyIcon,
   Clear as ClearIcon,
   Palette as PaletteIcon,
   Refresh as RefreshIcon,
